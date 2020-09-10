@@ -1,0 +1,313 @@
+C:\Users\srcelebi\Desktop\CAN\VARDIYA_PLANI\VARDIYA_PLANI\obj\Debug\VARDIYA_PLANI.csprojAssemblyReference.cache
+C:\Users\srcelebi\Desktop\CAN\VARDIYA_PLANI\VARDIYA_PLANI\obj\Debug\VARDIYA_PLANI.FORMLAR.frmYeniKullanici.resources
+C:\Users\srcelebi\Desktop\CAN\VARDIYA_PLANI\VARDIYA_PLANI\obj\Debug\VARDIYA_PLANI.Properties.Resources.resources
+C:\Users\srcelebi\Desktop\CAN\VARDIYA_PLANI\VARDIYA_PLANI\obj\Debug\VARDIYA_PLANI.csproj.GenerateResource.cache
+C:\Users\srcelebi\Desktop\CAN\VARDIYA_PLANI\VARDIYA_PLANI\obj\Debug\VARDIYA_PLANI.csproj.CoreCompileInputs.cache
+C:\Users\srcelebi\Desktop\CAN\VARDIYA_PLANI\VARDIYA_PLANI\bin\Debug\VARDIYA_PLANI.exe.config
+C:\Users\srcelebi\Desktop\CAN\VARDIYA_PLANI\VARDIYA_PLANI\bin\Debug\VARDIYA_PLANI.exe
+C:\Users\srcelebi\Desktop\CAN\VARDIYA_PLANI\VARDIYA_PLANI\bin\Debug\VARDIYA_PLANI.pdb
+C:\Users\srcelebi\Desktop\CAN\VARDIYA_PLANI\VARDIYA_PLANI\obj\Debug\VARDIYA_PLANI.exe
+C:\Users\srcelebi\Desktop\CAN\VARDIYA_PLANI\VARDIYA_PLANI\obj\Debug\VARDIYA_PLANI.pdb
+C:\Users\srcelebi\Desktop\CAN\VARDIYA_PLANI\VARDIYA_PLANI\obj\Debug\VARDIYA_PLANI.frmVardiyaPlanlamaEkrani.resources
+C:\Users\srcelebi\Desktop\CAN\VARDIYA_PLANI\VARDIYA_PLANI\obj\Debug\VARDIYA_PLANI.frmVardiyaOnayEkrani.resources
+C:\Users\srcelebi\Desktop\CAN\VARDIYA_PLANI\VARDIYA_PLANI\obj\Debug\VARDIYA_PLANI.FORMLAR.frmAdmin.resources
+C:\Users\srcelebi\Desktop\CAN\VARDIYA_PLANI\VARDIYA_PLANI\obj\Debug\VARDIYA_PLANI.frmGirisSecimEkrani.resources
+C:\Users\srcelebi\Desktop\CAN\VARDIYA_PLANI\VARDIYA_PLANI\obj\Debug\VARDIYA_PLANI.FORMLAR.frmAdminGiris.resources
+C:\Users\srcelebi\Desktop\CAN\VARDIYA_PLANI\VARDIYA_PLANI\obj\Debug\VARDIYA_PLANI.frmVardiyaAmiriGiris.resources
+C:\Users\canka\Desktop\VARDIYA_PLANIV4\VARDIYA_PLANI\bin\Debug\VARDIYA_PLANI.exe.config
+C:\Users\canka\Desktop\VARDIYA_PLANIV4\VARDIYA_PLANI\bin\Debug\VARDIYA_PLANI.exe
+C:\Users\canka\Desktop\VARDIYA_PLANIV4\VARDIYA_PLANI\bin\Debug\VARDIYA_PLANI.pdb
+C:\Users\canka\Desktop\VARDIYA_PLANIV4\VARDIYA_PLANI\obj\Debug\VARDIYA_PLANI.csprojAssemblyReference.cache
+C:\Users\canka\Desktop\VARDIYA_PLANIV4\VARDIYA_PLANI\obj\Debug\VARDIYA_PLANI.FORMLAR.frmAdmin.resources
+C:\Users\canka\Desktop\VARDIYA_PLANIV4\VARDIYA_PLANI\obj\Debug\VARDIYA_PLANI.FORMLAR.frmAdminGiris.resources
+C:\Users\canka\Desktop\VARDIYA_PLANIV4\VARDIYA_PLANI\obj\Debug\VARDIYA_PLANI.frmGirisSecimEkrani.resources
+C:\Users\canka\Desktop\VARDIYA_PLANIV4\VARDIYA_PLANI\obj\Debug\VARDIYA_PLANI.frmVardiyaAmiriGiris.resources
+C:\Users\canka\Desktop\VARDIYA_PLANIV4\VARDIYA_PLANI\obj\Debug\VARDIYA_PLANI.frmVardiyaPlanlamaEkrani.resources
+C:\Users\canka\Desktop\VARDIYA_PLANIV4\VARDIYA_PLANI\obj\Debug\VARDIYA_PLANI.frmVardiyaOnayEkrani.resources
+C:\Users\canka\Desktop\VARDIYA_PLANIV4\VARDIYA_PLANI\obj\Debug\VARDIYA_PLANI.Properties.Resources.resources
+C:\Users\canka\Desktop\VARDIYA_PLANIV4\VARDIYA_PLANI\obj\Debug\VARDIYA_PLANI.csproj.GenerateResource.cache
+C:\Users\canka\Desktop\VARDIYA_PLANIV4\VARDIYA_PLANI\obj\Debug\VARDIYA_PLANI.csproj.CoreCompileInputs.cache
+C:\Users\canka\Desktop\VARDIYA_PLANIV4\VARDIYA_PLANI\obj\Debug\VARDIYA_PLANI.exe
+C:\Users\canka\Desktop\VARDIYA_PLANIV4\VARDIYA_PLANI\obj\Debug\VARDIYA_PLANI.pdb
+C:\Users\canka\Desktop\VARDIYA_PLANIV4\VARDIYA_PLANI\bin\Debug\VardiyaDLL.dll
+C:\Users\canka\Desktop\VARDIYA_PLANIV4\VARDIYA_PLANI\bin\Debug\VardiyaDLL.pdb
+C:\Users\canka\Desktop\VARDIYA_PLANIV4\VARDIYA_PLANI\obj\Debug\VARDIYA_PLANI.csproj.CopyComplete
+C:\Users\canka\Desktop\VARDIYA_PLANIV4\VARDIYA_PLANI\obj\Debug\VARDIYA_PLANI.frmAdminSecim.resources
+C:\Users\srcelebi\Desktop\V6_VARDIYA_PLANI\VARDIYA_PLANI\bin\Debug\VARDIYA_PLANI.exe.config
+C:\Users\srcelebi\Desktop\V6_VARDIYA_PLANI\VARDIYA_PLANI\bin\Debug\VARDIYA_PLANI.exe
+C:\Users\srcelebi\Desktop\V6_VARDIYA_PLANI\VARDIYA_PLANI\bin\Debug\VARDIYA_PLANI.pdb
+C:\Users\srcelebi\Desktop\V6_VARDIYA_PLANI\VARDIYA_PLANI\bin\Debug\VardiyaDLL.dll
+C:\Users\srcelebi\Desktop\V6_VARDIYA_PLANI\VARDIYA_PLANI\bin\Debug\VardiyaDLL.pdb
+C:\Users\srcelebi\Desktop\V6_VARDIYA_PLANI\VARDIYA_PLANI\obj\Debug\VARDIYA_PLANI.csprojAssemblyReference.cache
+C:\Users\srcelebi\Desktop\V6_VARDIYA_PLANI\VARDIYA_PLANI\obj\Debug\VARDIYA_PLANI.FORMLAR.frmAdmin.resources
+C:\Users\srcelebi\Desktop\V6_VARDIYA_PLANI\VARDIYA_PLANI\obj\Debug\VARDIYA_PLANI.FORMLAR.frmAdminGiris.resources
+C:\Users\srcelebi\Desktop\V6_VARDIYA_PLANI\VARDIYA_PLANI\obj\Debug\VARDIYA_PLANI.frmGirisSecimEkrani.resources
+C:\Users\srcelebi\Desktop\V6_VARDIYA_PLANI\VARDIYA_PLANI\obj\Debug\VARDIYA_PLANI.frmVardiyaAmiriGiris.resources
+C:\Users\srcelebi\Desktop\V6_VARDIYA_PLANI\VARDIYA_PLANI\obj\Debug\VARDIYA_PLANI.frmVardiyaPlanlamaEkrani.resources
+C:\Users\srcelebi\Desktop\V6_VARDIYA_PLANI\VARDIYA_PLANI\obj\Debug\VARDIYA_PLANI.frmVardiyaOnayEkrani.resources
+C:\Users\srcelebi\Desktop\V6_VARDIYA_PLANI\VARDIYA_PLANI\obj\Debug\VARDIYA_PLANI.frmAdminSecim.resources
+C:\Users\srcelebi\Desktop\V6_VARDIYA_PLANI\VARDIYA_PLANI\obj\Debug\VARDIYA_PLANI.Properties.Resources.resources
+C:\Users\srcelebi\Desktop\V6_VARDIYA_PLANI\VARDIYA_PLANI\obj\Debug\VARDIYA_PLANI.csproj.GenerateResource.cache
+C:\Users\srcelebi\Desktop\V6_VARDIYA_PLANI\VARDIYA_PLANI\obj\Debug\VARDIYA_PLANI.csproj.CoreCompileInputs.cache
+C:\Users\srcelebi\Desktop\V6_VARDIYA_PLANI\VARDIYA_PLANI\obj\Debug\VARDIYA_PLANI.csproj.CopyComplete
+C:\Users\srcelebi\Desktop\V6_VARDIYA_PLANI\VARDIYA_PLANI\obj\Debug\VARDIYA_PLANI.exe
+C:\Users\srcelebi\Desktop\V6_VARDIYA_PLANI\VARDIYA_PLANI\obj\Debug\VARDIYA_PLANI.pdb
+C:\Users\canka\Desktop\V7_VARDIYA_PLANI\VARDIYA_PLANI\bin\Debug\VARDIYA_PLANI.exe.config
+C:\Users\canka\Desktop\V7_VARDIYA_PLANI\VARDIYA_PLANI\bin\Debug\VARDIYA_PLANI.exe
+C:\Users\canka\Desktop\V7_VARDIYA_PLANI\VARDIYA_PLANI\bin\Debug\VARDIYA_PLANI.pdb
+C:\Users\canka\Desktop\V7_VARDIYA_PLANI\VARDIYA_PLANI\bin\Debug\VardiyaDLL.dll
+C:\Users\canka\Desktop\V7_VARDIYA_PLANI\VARDIYA_PLANI\bin\Debug\VardiyaDLL.pdb
+C:\Users\canka\Desktop\V7_VARDIYA_PLANI\VARDIYA_PLANI\obj\Debug\VARDIYA_PLANI.csprojAssemblyReference.cache
+C:\Users\canka\Desktop\V7_VARDIYA_PLANI\VARDIYA_PLANI\obj\Debug\VARDIYA_PLANI.FORMLAR.frmAdmin.resources
+C:\Users\canka\Desktop\V7_VARDIYA_PLANI\VARDIYA_PLANI\obj\Debug\VARDIYA_PLANI.frmVardiyaPlanlamaEkrani.resources
+C:\Users\canka\Desktop\V7_VARDIYA_PLANI\VARDIYA_PLANI\obj\Debug\VARDIYA_PLANI.frmVardiyaOnayEkrani.resources
+C:\Users\canka\Desktop\V7_VARDIYA_PLANI\VARDIYA_PLANI\obj\Debug\VARDIYA_PLANI.frmAdminSecim.resources
+C:\Users\canka\Desktop\V7_VARDIYA_PLANI\VARDIYA_PLANI\obj\Debug\VARDIYA_PLANI.Properties.Resources.resources
+C:\Users\canka\Desktop\V7_VARDIYA_PLANI\VARDIYA_PLANI\obj\Debug\VARDIYA_PLANI.csproj.GenerateResource.cache
+C:\Users\canka\Desktop\V7_VARDIYA_PLANI\VARDIYA_PLANI\obj\Debug\VARDIYA_PLANI.csproj.CoreCompileInputs.cache
+C:\Users\canka\Desktop\V7_VARDIYA_PLANI\VARDIYA_PLANI\obj\Debug\VARDIYA_PLANI.csproj.CopyComplete
+C:\Users\canka\Desktop\V7_VARDIYA_PLANI\VARDIYA_PLANI\obj\Debug\VARDIYA_PLANI.exe
+C:\Users\canka\Desktop\V7_VARDIYA_PLANI\VARDIYA_PLANI\obj\Debug\VARDIYA_PLANI.pdb
+C:\Users\canka\Desktop\V7_VARDIYA_PLANI\VARDIYA_PLANI\obj\Debug\VARDIYA_PLANI.FORMLAR.frmGiris.resources
+C:\Users\canka\Desktop\V8_VARDIYA_PLANI\VARDIYA_PLANI\bin\Debug\VARDIYA_PLANI.exe.config
+C:\Users\canka\Desktop\V8_VARDIYA_PLANI\VARDIYA_PLANI\bin\Debug\VARDIYA_PLANI.exe
+C:\Users\canka\Desktop\V8_VARDIYA_PLANI\VARDIYA_PLANI\bin\Debug\VARDIYA_PLANI.pdb
+C:\Users\canka\Desktop\V8_VARDIYA_PLANI\VARDIYA_PLANI\bin\Debug\VardiyaDLL.dll
+C:\Users\canka\Desktop\V8_VARDIYA_PLANI\VARDIYA_PLANI\bin\Debug\VardiyaDLL.pdb
+C:\Users\canka\Desktop\V8_VARDIYA_PLANI\VARDIYA_PLANI\obj\Debug\VARDIYA_PLANI.csprojAssemblyReference.cache
+C:\Users\canka\Desktop\V8_VARDIYA_PLANI\VARDIYA_PLANI\obj\Debug\VARDIYA_PLANI.FORMLAR.frmAdmin.resources
+C:\Users\canka\Desktop\V8_VARDIYA_PLANI\VARDIYA_PLANI\obj\Debug\VARDIYA_PLANI.FORMLAR.frmGiris.resources
+C:\Users\canka\Desktop\V8_VARDIYA_PLANI\VARDIYA_PLANI\obj\Debug\VARDIYA_PLANI.frmVardiyaPlanlamaEkrani.resources
+C:\Users\canka\Desktop\V8_VARDIYA_PLANI\VARDIYA_PLANI\obj\Debug\VARDIYA_PLANI.frmVardiyaOnayEkrani.resources
+C:\Users\canka\Desktop\V8_VARDIYA_PLANI\VARDIYA_PLANI\obj\Debug\VARDIYA_PLANI.frmAdminSecim.resources
+C:\Users\canka\Desktop\V8_VARDIYA_PLANI\VARDIYA_PLANI\obj\Debug\VARDIYA_PLANI.Properties.Resources.resources
+C:\Users\canka\Desktop\V8_VARDIYA_PLANI\VARDIYA_PLANI\obj\Debug\VARDIYA_PLANI.csproj.GenerateResource.cache
+C:\Users\canka\Desktop\V8_VARDIYA_PLANI\VARDIYA_PLANI\obj\Debug\VARDIYA_PLANI.csproj.CoreCompileInputs.cache
+C:\Users\canka\Desktop\V8_VARDIYA_PLANI\VARDIYA_PLANI\obj\Debug\VARDIYA_PLANI.csproj.CopyComplete
+C:\Users\canka\Desktop\V8_VARDIYA_PLANI\VARDIYA_PLANI\obj\Debug\VARDIYA_PLANI.exe
+C:\Users\canka\Desktop\V8_VARDIYA_PLANI\VARDIYA_PLANI\obj\Debug\VARDIYA_PLANI.pdb
+C:\Users\srcelebi\Desktop\Yeni klasör (3)\V8_VARDIYA_PLANI\VARDIYA_PLANI\bin\Debug\VARDIYA_PLANI.exe.config
+C:\Users\srcelebi\Desktop\Yeni klasör (3)\V8_VARDIYA_PLANI\VARDIYA_PLANI\bin\Debug\VARDIYA_PLANI.exe
+C:\Users\srcelebi\Desktop\Yeni klasör (3)\V8_VARDIYA_PLANI\VARDIYA_PLANI\bin\Debug\VARDIYA_PLANI.pdb
+C:\Users\srcelebi\Desktop\Yeni klasör (3)\V8_VARDIYA_PLANI\VARDIYA_PLANI\bin\Debug\VardiyaDLL.dll
+C:\Users\srcelebi\Desktop\Yeni klasör (3)\V8_VARDIYA_PLANI\VARDIYA_PLANI\bin\Debug\VardiyaDLL.pdb
+C:\Users\srcelebi\Desktop\Yeni klasör (3)\V8_VARDIYA_PLANI\VARDIYA_PLANI\obj\Debug\VARDIYA_PLANI.csprojAssemblyReference.cache
+C:\Users\srcelebi\Desktop\Yeni klasör (3)\V8_VARDIYA_PLANI\VARDIYA_PLANI\obj\Debug\VARDIYA_PLANI.FORMLAR.frmAdmin.resources
+C:\Users\srcelebi\Desktop\Yeni klasör (3)\V8_VARDIYA_PLANI\VARDIYA_PLANI\obj\Debug\VARDIYA_PLANI.FORMLAR.frmGiris.resources
+C:\Users\srcelebi\Desktop\Yeni klasör (3)\V8_VARDIYA_PLANI\VARDIYA_PLANI\obj\Debug\VARDIYA_PLANI.frmVardiyaPlanlamaEkrani.resources
+C:\Users\srcelebi\Desktop\Yeni klasör (3)\V8_VARDIYA_PLANI\VARDIYA_PLANI\obj\Debug\VARDIYA_PLANI.frmVardiyaOnayEkrani.resources
+C:\Users\srcelebi\Desktop\Yeni klasör (3)\V8_VARDIYA_PLANI\VARDIYA_PLANI\obj\Debug\VARDIYA_PLANI.frmAdminSecim.resources
+C:\Users\srcelebi\Desktop\Yeni klasör (3)\V8_VARDIYA_PLANI\VARDIYA_PLANI\obj\Debug\VARDIYA_PLANI.Properties.Resources.resources
+C:\Users\srcelebi\Desktop\Yeni klasör (3)\V8_VARDIYA_PLANI\VARDIYA_PLANI\obj\Debug\VARDIYA_PLANI.csproj.GenerateResource.cache
+C:\Users\srcelebi\Desktop\Yeni klasör (3)\V8_VARDIYA_PLANI\VARDIYA_PLANI\obj\Debug\VARDIYA_PLANI.csproj.CoreCompileInputs.cache
+C:\Users\srcelebi\Desktop\Yeni klasör (3)\V8_VARDIYA_PLANI\VARDIYA_PLANI\obj\Debug\VARDIYA_PLANI.csproj.CopyComplete
+C:\Users\srcelebi\Desktop\Yeni klasör (3)\V8_VARDIYA_PLANI\VARDIYA_PLANI\obj\Debug\VARDIYA_PLANI.exe
+C:\Users\srcelebi\Desktop\Yeni klasör (3)\V8_VARDIYA_PLANI\VARDIYA_PLANI\obj\Debug\VARDIYA_PLANI.pdb
+C:\Users\srcelebi\Desktop\Yeni klasör (3)\V10_VARDIYA_PLANI\VARDIYA_PLANI\bin\Debug\VARDIYA_PLANI.exe.config
+C:\Users\srcelebi\Desktop\Yeni klasör (3)\V10_VARDIYA_PLANI\VARDIYA_PLANI\bin\Debug\VARDIYA_PLANI.exe
+C:\Users\srcelebi\Desktop\Yeni klasör (3)\V10_VARDIYA_PLANI\VARDIYA_PLANI\bin\Debug\VARDIYA_PLANI.pdb
+C:\Users\srcelebi\Desktop\Yeni klasör (3)\V10_VARDIYA_PLANI\VARDIYA_PLANI\bin\Debug\VardiyaDLL.dll
+C:\Users\srcelebi\Desktop\Yeni klasör (3)\V10_VARDIYA_PLANI\VARDIYA_PLANI\bin\Debug\VardiyaDLL.pdb
+C:\Users\srcelebi\Desktop\Yeni klasör (3)\V10_VARDIYA_PLANI\VARDIYA_PLANI\obj\Debug\VARDIYA_PLANI.csprojAssemblyReference.cache
+C:\Users\srcelebi\Desktop\Yeni klasör (3)\V10_VARDIYA_PLANI\VARDIYA_PLANI\obj\Debug\VARDIYA_PLANI.FORMLAR.frmAdmin.resources
+C:\Users\srcelebi\Desktop\Yeni klasör (3)\V10_VARDIYA_PLANI\VARDIYA_PLANI\obj\Debug\VARDIYA_PLANI.FORMLAR.frmGiris.resources
+C:\Users\srcelebi\Desktop\Yeni klasör (3)\V10_VARDIYA_PLANI\VARDIYA_PLANI\obj\Debug\VARDIYA_PLANI.frmVardiyaPlanlamaEkrani.resources
+C:\Users\srcelebi\Desktop\Yeni klasör (3)\V10_VARDIYA_PLANI\VARDIYA_PLANI\obj\Debug\VARDIYA_PLANI.frmVardiyaOnayEkrani.resources
+C:\Users\srcelebi\Desktop\Yeni klasör (3)\V10_VARDIYA_PLANI\VARDIYA_PLANI\obj\Debug\VARDIYA_PLANI.frmAdminSecim.resources
+C:\Users\srcelebi\Desktop\Yeni klasör (3)\V10_VARDIYA_PLANI\VARDIYA_PLANI\obj\Debug\VARDIYA_PLANI.Properties.Resources.resources
+C:\Users\srcelebi\Desktop\Yeni klasör (3)\V10_VARDIYA_PLANI\VARDIYA_PLANI\obj\Debug\VARDIYA_PLANI.csproj.GenerateResource.cache
+C:\Users\srcelebi\Desktop\Yeni klasör (3)\V10_VARDIYA_PLANI\VARDIYA_PLANI\obj\Debug\VARDIYA_PLANI.csproj.CoreCompileInputs.cache
+C:\Users\srcelebi\Desktop\Yeni klasör (3)\V10_VARDIYA_PLANI\VARDIYA_PLANI\obj\Debug\VARDIYA_PLANI.csproj.CopyComplete
+C:\Users\srcelebi\Desktop\Yeni klasör (3)\V10_VARDIYA_PLANI\VARDIYA_PLANI\obj\Debug\VARDIYA_PLANI.exe
+C:\Users\srcelebi\Desktop\Yeni klasör (3)\V10_VARDIYA_PLANI\VARDIYA_PLANI\obj\Debug\VARDIYA_PLANI.pdb
+C:\Users\canka\Desktop\V10_VARDIYA_PLANI\VARDIYA_PLANI\obj\Debug\VARDIYA_PLANI.csprojAssemblyReference.cache
+C:\Users\canka\Desktop\V10_VARDIYA_PLANI\VARDIYA_PLANI\obj\Debug\VARDIYA_PLANI.FORMLAR.frmAdmin.resources
+C:\Users\canka\Desktop\V10_VARDIYA_PLANI\VARDIYA_PLANI\obj\Debug\VARDIYA_PLANI.FORMLAR.frmGiris.resources
+C:\Users\canka\Desktop\V10_VARDIYA_PLANI\VARDIYA_PLANI\obj\Debug\VARDIYA_PLANI.frmVardiyaPlanlamaEkrani.resources
+C:\Users\canka\Desktop\V10_VARDIYA_PLANI\VARDIYA_PLANI\obj\Debug\VARDIYA_PLANI.frmVardiyaOnayEkrani.resources
+C:\Users\canka\Desktop\V10_VARDIYA_PLANI\VARDIYA_PLANI\obj\Debug\VARDIYA_PLANI.frmAdminSecim.resources
+C:\Users\canka\Desktop\V10_VARDIYA_PLANI\VARDIYA_PLANI\obj\Debug\VARDIYA_PLANI.Properties.Resources.resources
+C:\Users\canka\Desktop\V10_VARDIYA_PLANI\VARDIYA_PLANI\obj\Debug\VARDIYA_PLANI.csproj.GenerateResource.cache
+C:\Users\canka\Desktop\V10_VARDIYA_PLANI\VARDIYA_PLANI\obj\Debug\VARDIYA_PLANI.csproj.CoreCompileInputs.cache
+C:\Users\canka\Desktop\V10_VARDIYA_PLANI\VARDIYA_PLANI\obj\Debug\VARDIYA_PLANI.exe
+C:\Users\canka\Desktop\V10_VARDIYA_PLANI\VARDIYA_PLANI\obj\Debug\VARDIYA_PLANI.pdb
+C:\Users\canka\Desktop\V10_VARDIYA_PLANI\VARDIYA_PLANI\bin\Debug\VARDIYA_PLANI.exe.config
+C:\Users\canka\Desktop\V10_VARDIYA_PLANI\VARDIYA_PLANI\bin\Debug\VARDIYA_PLANI.exe
+C:\Users\canka\Desktop\V10_VARDIYA_PLANI\VARDIYA_PLANI\bin\Debug\VARDIYA_PLANI.pdb
+C:\Users\canka\Desktop\V10_VARDIYA_PLANI\VARDIYA_PLANI\bin\Debug\VardiyaDLL.dll
+C:\Users\canka\Desktop\V10_VARDIYA_PLANI\VARDIYA_PLANI\obj\Debug\VARDIYA_PLANI.csproj.CopyComplete
+C:\Users\srcelebi\Desktop\VardiyaTakipSistemi-master\V11_VARDIYA_PLANI\VARDIYA_PLANI\bin\Debug\VARDIYA_PLANI.exe.config
+C:\Users\srcelebi\Desktop\VardiyaTakipSistemi-master\V11_VARDIYA_PLANI\VARDIYA_PLANI\bin\Debug\VARDIYA_PLANI.exe
+C:\Users\srcelebi\Desktop\VardiyaTakipSistemi-master\V11_VARDIYA_PLANI\VARDIYA_PLANI\bin\Debug\VARDIYA_PLANI.pdb
+C:\Users\srcelebi\Desktop\VardiyaTakipSistemi-master\V11_VARDIYA_PLANI\VARDIYA_PLANI\obj\Debug\VARDIYA_PLANI.csprojAssemblyReference.cache
+C:\Users\srcelebi\Desktop\VardiyaTakipSistemi-master\V11_VARDIYA_PLANI\VARDIYA_PLANI\obj\Debug\VARDIYA_PLANI.FORMLAR.frmGiris.resources
+C:\Users\srcelebi\Desktop\VardiyaTakipSistemi-master\V11_VARDIYA_PLANI\VARDIYA_PLANI\obj\Debug\VARDIYA_PLANI.frmVardiyaPlanlamaEkrani.resources
+C:\Users\srcelebi\Desktop\VardiyaTakipSistemi-master\V11_VARDIYA_PLANI\VARDIYA_PLANI\obj\Debug\VARDIYA_PLANI.frmVardiyaOnayEkrani.resources
+C:\Users\srcelebi\Desktop\VardiyaTakipSistemi-master\V11_VARDIYA_PLANI\VARDIYA_PLANI\obj\Debug\VARDIYA_PLANI.frmAdminSecim.resources
+C:\Users\srcelebi\Desktop\VardiyaTakipSistemi-master\V11_VARDIYA_PLANI\VARDIYA_PLANI\obj\Debug\VARDIYA_PLANI.Properties.Resources.resources
+C:\Users\srcelebi\Desktop\VardiyaTakipSistemi-master\V11_VARDIYA_PLANI\VARDIYA_PLANI\obj\Debug\VARDIYA_PLANI.csproj.GenerateResource.cache
+C:\Users\srcelebi\Desktop\VardiyaTakipSistemi-master\V11_VARDIYA_PLANI\VARDIYA_PLANI\obj\Debug\VARDIYA_PLANI.csproj.CoreCompileInputs.cache
+C:\Users\srcelebi\Desktop\VardiyaTakipSistemi-master\V11_VARDIYA_PLANI\VARDIYA_PLANI\obj\Debug\VARDIYA_PLANI.csproj.CopyComplete
+C:\Users\srcelebi\Desktop\VardiyaTakipSistemi-master\V11_VARDIYA_PLANI\VARDIYA_PLANI\obj\Debug\VARDIYA_PLANI.exe
+C:\Users\srcelebi\Desktop\VardiyaTakipSistemi-master\V11_VARDIYA_PLANI\VARDIYA_PLANI\obj\Debug\VARDIYA_PLANI.pdb
+C:\Users\srcelebi\Desktop\VardiyaTakipSistemi-master\V11_VARDIYA_PLANI\VARDIYA_PLANI\obj\Debug\VARDIYA_PLANI.FORMLAR.frmAnaVardiyaListesi.resources
+C:\Users\srcelebi\Desktop\VardiyaTakipSistemi-master\V12_VARDIYA_PLANI\VARDIYA_PLANI\bin\Debug\VARDIYA_PLANI.exe.config
+C:\Users\srcelebi\Desktop\VardiyaTakipSistemi-master\V12_VARDIYA_PLANI\VARDIYA_PLANI\bin\Debug\VARDIYA_PLANI.exe
+C:\Users\srcelebi\Desktop\VardiyaTakipSistemi-master\V12_VARDIYA_PLANI\VARDIYA_PLANI\bin\Debug\VARDIYA_PLANI.pdb
+C:\Users\srcelebi\Desktop\VardiyaTakipSistemi-master\V12_VARDIYA_PLANI\VARDIYA_PLANI\obj\Debug\VARDIYA_PLANI.csprojAssemblyReference.cache
+C:\Users\srcelebi\Desktop\VardiyaTakipSistemi-master\V12_VARDIYA_PLANI\VARDIYA_PLANI\obj\Debug\VARDIYA_PLANI.FORMLAR.frmAnaVardiyaListesi.resources
+C:\Users\srcelebi\Desktop\VardiyaTakipSistemi-master\V12_VARDIYA_PLANI\VARDIYA_PLANI\obj\Debug\VARDIYA_PLANI.FORMLAR.frmGiris.resources
+C:\Users\srcelebi\Desktop\VardiyaTakipSistemi-master\V12_VARDIYA_PLANI\VARDIYA_PLANI\obj\Debug\VARDIYA_PLANI.frmVardiyaPlanlamaEkrani.resources
+C:\Users\srcelebi\Desktop\VardiyaTakipSistemi-master\V12_VARDIYA_PLANI\VARDIYA_PLANI\obj\Debug\VARDIYA_PLANI.frmVardiyaOnayEkrani.resources
+C:\Users\srcelebi\Desktop\VardiyaTakipSistemi-master\V12_VARDIYA_PLANI\VARDIYA_PLANI\obj\Debug\VARDIYA_PLANI.frmAdminSecim.resources
+C:\Users\srcelebi\Desktop\VardiyaTakipSistemi-master\V12_VARDIYA_PLANI\VARDIYA_PLANI\obj\Debug\VARDIYA_PLANI.Properties.Resources.resources
+C:\Users\srcelebi\Desktop\VardiyaTakipSistemi-master\V12_VARDIYA_PLANI\VARDIYA_PLANI\obj\Debug\VARDIYA_PLANI.csproj.GenerateResource.cache
+C:\Users\srcelebi\Desktop\VardiyaTakipSistemi-master\V12_VARDIYA_PLANI\VARDIYA_PLANI\obj\Debug\VARDIYA_PLANI.csproj.CoreCompileInputs.cache
+C:\Users\srcelebi\Desktop\VardiyaTakipSistemi-master\V12_VARDIYA_PLANI\VARDIYA_PLANI\obj\Debug\VARDIYA_PLANI.csproj.CopyComplete
+C:\Users\srcelebi\Desktop\VardiyaTakipSistemi-master\V12_VARDIYA_PLANI\VARDIYA_PLANI\obj\Debug\VARDIYA_PLANI.exe
+C:\Users\srcelebi\Desktop\VardiyaTakipSistemi-master\V12_VARDIYA_PLANI\VARDIYA_PLANI\obj\Debug\VARDIYA_PLANI.pdb
+C:\Users\srcelebi\Desktop\VardiyaTakipSistemi-master\V13_VARDIYA_PLANI\VARDIYA_PLANI\bin\Debug\VARDIYA_PLANI.exe.config
+C:\Users\srcelebi\Desktop\VardiyaTakipSistemi-master\V13_VARDIYA_PLANI\VARDIYA_PLANI\bin\Debug\VARDIYA_PLANI.exe
+C:\Users\srcelebi\Desktop\VardiyaTakipSistemi-master\V13_VARDIYA_PLANI\VARDIYA_PLANI\bin\Debug\VARDIYA_PLANI.pdb
+C:\Users\srcelebi\Desktop\VardiyaTakipSistemi-master\V13_VARDIYA_PLANI\VARDIYA_PLANI\obj\Debug\VARDIYA_PLANI.csprojAssemblyReference.cache
+C:\Users\srcelebi\Desktop\VardiyaTakipSistemi-master\V13_VARDIYA_PLANI\VARDIYA_PLANI\obj\Debug\VARDIYA_PLANI.FORMLAR.frmAnaVardiyaListesi.resources
+C:\Users\srcelebi\Desktop\VardiyaTakipSistemi-master\V13_VARDIYA_PLANI\VARDIYA_PLANI\obj\Debug\VARDIYA_PLANI.FORMLAR.frmGiris.resources
+C:\Users\srcelebi\Desktop\VardiyaTakipSistemi-master\V13_VARDIYA_PLANI\VARDIYA_PLANI\obj\Debug\VARDIYA_PLANI.frmVardiyaPlanlamaEkrani.resources
+C:\Users\srcelebi\Desktop\VardiyaTakipSistemi-master\V13_VARDIYA_PLANI\VARDIYA_PLANI\obj\Debug\VARDIYA_PLANI.frmVardiyaOnayEkrani.resources
+C:\Users\srcelebi\Desktop\VardiyaTakipSistemi-master\V13_VARDIYA_PLANI\VARDIYA_PLANI\obj\Debug\VARDIYA_PLANI.frmAdminSecim.resources
+C:\Users\srcelebi\Desktop\VardiyaTakipSistemi-master\V13_VARDIYA_PLANI\VARDIYA_PLANI\obj\Debug\VARDIYA_PLANI.Properties.Resources.resources
+C:\Users\srcelebi\Desktop\VardiyaTakipSistemi-master\V13_VARDIYA_PLANI\VARDIYA_PLANI\obj\Debug\VARDIYA_PLANI.csproj.GenerateResource.cache
+C:\Users\srcelebi\Desktop\VardiyaTakipSistemi-master\V13_VARDIYA_PLANI\VARDIYA_PLANI\obj\Debug\VARDIYA_PLANI.csproj.CoreCompileInputs.cache
+C:\Users\srcelebi\Desktop\VardiyaTakipSistemi-master\V13_VARDIYA_PLANI\VARDIYA_PLANI\obj\Debug\VARDIYA_PLANI.csproj.CopyComplete
+C:\Users\srcelebi\Desktop\VardiyaTakipSistemi-master\V13_VARDIYA_PLANI\VARDIYA_PLANI\obj\Debug\VARDIYA_PLANI.exe
+C:\Users\srcelebi\Desktop\VardiyaTakipSistemi-master\V13_VARDIYA_PLANI\VARDIYA_PLANI\obj\Debug\VARDIYA_PLANI.pdb
+C:\Users\srcelebi\Desktop\VardiyaTakipSistemi-master\V13_VARDIYA_PLANI\VARDIYA_PLANI\obj\Debug\VARDIYA_PLANI.csproj.ResolveComReference.cache
+C:\Users\canka\Desktop\V14_VARDIYA_PLANI\VARDIYA_PLANI\bin\Debug\VARDIYA_PLANI.exe.config
+C:\Users\canka\Desktop\V14_VARDIYA_PLANI\VARDIYA_PLANI\bin\Debug\VARDIYA_PLANI.exe
+C:\Users\canka\Desktop\V14_VARDIYA_PLANI\VARDIYA_PLANI\bin\Debug\VARDIYA_PLANI.pdb
+C:\Users\canka\Desktop\V14_VARDIYA_PLANI\VARDIYA_PLANI\bin\Debug\VardiyaDLL.dll
+C:\Users\canka\Desktop\V14_VARDIYA_PLANI\VARDIYA_PLANI\obj\Debug\VARDIYA_PLANI.csprojAssemblyReference.cache
+C:\Users\canka\Desktop\V14_VARDIYA_PLANI\VARDIYA_PLANI\obj\Debug\VARDIYA_PLANI.csproj.ResolveComReference.cache
+C:\Users\canka\Desktop\V14_VARDIYA_PLANI\VARDIYA_PLANI\obj\Debug\VARDIYA_PLANI.FORMLAR.frmAnaVardiyaListesi.resources
+C:\Users\canka\Desktop\V14_VARDIYA_PLANI\VARDIYA_PLANI\obj\Debug\VARDIYA_PLANI.FORMLAR.frmGiris.resources
+C:\Users\canka\Desktop\V14_VARDIYA_PLANI\VARDIYA_PLANI\obj\Debug\VARDIYA_PLANI.frmVardiyaPlanlamaEkrani.resources
+C:\Users\canka\Desktop\V14_VARDIYA_PLANI\VARDIYA_PLANI\obj\Debug\VARDIYA_PLANI.frmVardiyaOnayEkrani.resources
+C:\Users\canka\Desktop\V14_VARDIYA_PLANI\VARDIYA_PLANI\obj\Debug\VARDIYA_PLANI.frmAdminSecim.resources
+C:\Users\canka\Desktop\V14_VARDIYA_PLANI\VARDIYA_PLANI\obj\Debug\VARDIYA_PLANI.Properties.Resources.resources
+C:\Users\canka\Desktop\V14_VARDIYA_PLANI\VARDIYA_PLANI\obj\Debug\VARDIYA_PLANI.csproj.GenerateResource.cache
+C:\Users\canka\Desktop\V14_VARDIYA_PLANI\VARDIYA_PLANI\obj\Debug\VARDIYA_PLANI.csproj.CoreCompileInputs.cache
+C:\Users\canka\Desktop\V14_VARDIYA_PLANI\VARDIYA_PLANI\obj\Debug\VARDIYA_PLANI.csproj.CopyComplete
+C:\Users\canka\Desktop\V14_VARDIYA_PLANI\VARDIYA_PLANI\obj\Debug\VARDIYA_PLANI.exe
+C:\Users\canka\Desktop\V14_VARDIYA_PLANI\VARDIYA_PLANI\obj\Debug\VARDIYA_PLANI.pdb
+C:\Users\srcelebi\Desktop\V15_VARDIYA_PLANI\VARDIYA_PLANI\bin\Debug\VARDIYA_PLANI.exe.config
+C:\Users\srcelebi\Desktop\V15_VARDIYA_PLANI\VARDIYA_PLANI\bin\Debug\VARDIYA_PLANI.exe
+C:\Users\srcelebi\Desktop\V15_VARDIYA_PLANI\VARDIYA_PLANI\bin\Debug\VARDIYA_PLANI.pdb
+C:\Users\srcelebi\Desktop\V15_VARDIYA_PLANI\VARDIYA_PLANI\obj\Debug\VARDIYA_PLANI.csprojAssemblyReference.cache
+C:\Users\srcelebi\Desktop\V15_VARDIYA_PLANI\VARDIYA_PLANI\obj\Debug\VARDIYA_PLANI.csproj.ResolveComReference.cache
+C:\Users\srcelebi\Desktop\V15_VARDIYA_PLANI\VARDIYA_PLANI\obj\Debug\VARDIYA_PLANI.FORMLAR.frmAnaVardiyaListesi.resources
+C:\Users\srcelebi\Desktop\V15_VARDIYA_PLANI\VARDIYA_PLANI\obj\Debug\VARDIYA_PLANI.FORMLAR.frmGiris.resources
+C:\Users\srcelebi\Desktop\V15_VARDIYA_PLANI\VARDIYA_PLANI\obj\Debug\VARDIYA_PLANI.frmVardiyaPlanlamaEkrani.resources
+C:\Users\srcelebi\Desktop\V15_VARDIYA_PLANI\VARDIYA_PLANI\obj\Debug\VARDIYA_PLANI.frmAdminSecim.resources
+C:\Users\srcelebi\Desktop\V15_VARDIYA_PLANI\VARDIYA_PLANI\obj\Debug\VARDIYA_PLANI.Properties.Resources.resources
+C:\Users\srcelebi\Desktop\V15_VARDIYA_PLANI\VARDIYA_PLANI\obj\Debug\VARDIYA_PLANI.csproj.GenerateResource.cache
+C:\Users\srcelebi\Desktop\V15_VARDIYA_PLANI\VARDIYA_PLANI\obj\Debug\VARDIYA_PLANI.csproj.CoreCompileInputs.cache
+C:\Users\srcelebi\Desktop\V15_VARDIYA_PLANI\VARDIYA_PLANI\obj\Debug\VARDIYA_PLANI.csproj.CopyComplete
+C:\Users\srcelebi\Desktop\V15_VARDIYA_PLANI\VARDIYA_PLANI\obj\Debug\VARDIYA_PLANI.exe
+C:\Users\srcelebi\Desktop\V15_VARDIYA_PLANI\VARDIYA_PLANI\obj\Debug\VARDIYA_PLANI.pdb
+C:\Users\srcelebi\Desktop\V15_VARDIYA_PLANI\VARDIYA_PLANI\obj\Debug\VARDIYA_PLANI.FORMLAR.frmKullaniciSecim.resources
+C:\Users\srcelebi\Desktop\V15_VARDIYA_PLANI\VARDIYA_PLANI\obj\Debug\VARDIYA_PLANI.FORMLAR.frmGenelMesaiListesi.resources
+C:\Users\srcelebi\Desktop\V15_VARDIYA_PLANI\VARDIYA_PLANI\obj\Debug\VARDIYA_PLANI.FORMLAR.frmMesaiPlanlamaEkrani.resources
+C:\Users\canka\Desktop\V16_VARDIYA_PLANI\VARDIYA_PLANI\bin\Debug\VARDIYA_PLANI.exe.config
+C:\Users\canka\Desktop\V16_VARDIYA_PLANI\VARDIYA_PLANI\bin\Debug\VARDIYA_PLANI.exe
+C:\Users\canka\Desktop\V16_VARDIYA_PLANI\VARDIYA_PLANI\bin\Debug\VARDIYA_PLANI.pdb
+C:\Users\canka\Desktop\V16_VARDIYA_PLANI\VARDIYA_PLANI\bin\Debug\VardiyaDLL.dll
+C:\Users\canka\Desktop\V16_VARDIYA_PLANI\VARDIYA_PLANI\obj\Debug\VARDIYA_PLANI.csprojAssemblyReference.cache
+C:\Users\canka\Desktop\V16_VARDIYA_PLANI\VARDIYA_PLANI\obj\Debug\VARDIYA_PLANI.csproj.ResolveComReference.cache
+C:\Users\canka\Desktop\V16_VARDIYA_PLANI\VARDIYA_PLANI\obj\Debug\VARDIYA_PLANI.FORMLAR.frmAnaVardiyaListesi.resources
+C:\Users\canka\Desktop\V16_VARDIYA_PLANI\VARDIYA_PLANI\obj\Debug\VARDIYA_PLANI.FORMLAR.frmGenelMesaiListesi.resources
+C:\Users\canka\Desktop\V16_VARDIYA_PLANI\VARDIYA_PLANI\obj\Debug\VARDIYA_PLANI.FORMLAR.frmGiris.resources
+C:\Users\canka\Desktop\V16_VARDIYA_PLANI\VARDIYA_PLANI\obj\Debug\VARDIYA_PLANI.FORMLAR.frmKullaniciSecim.resources
+C:\Users\canka\Desktop\V16_VARDIYA_PLANI\VARDIYA_PLANI\obj\Debug\VARDIYA_PLANI.FORMLAR.frmMesaiPlanlamaEkrani.resources
+C:\Users\canka\Desktop\V16_VARDIYA_PLANI\VARDIYA_PLANI\obj\Debug\VARDIYA_PLANI.frmVardiyaPlanlamaEkrani.resources
+C:\Users\canka\Desktop\V16_VARDIYA_PLANI\VARDIYA_PLANI\obj\Debug\VARDIYA_PLANI.frmAdminSecim.resources
+C:\Users\canka\Desktop\V16_VARDIYA_PLANI\VARDIYA_PLANI\obj\Debug\VARDIYA_PLANI.Properties.Resources.resources
+C:\Users\canka\Desktop\V16_VARDIYA_PLANI\VARDIYA_PLANI\obj\Debug\VARDIYA_PLANI.csproj.GenerateResource.cache
+C:\Users\canka\Desktop\V16_VARDIYA_PLANI\VARDIYA_PLANI\obj\Debug\VARDIYA_PLANI.csproj.CoreCompileInputs.cache
+C:\Users\canka\Desktop\V16_VARDIYA_PLANI\VARDIYA_PLANI\obj\Debug\VARDIYA_PLANI.csproj.CopyComplete
+C:\Users\canka\Desktop\V16_VARDIYA_PLANI\VARDIYA_PLANI\obj\Debug\VARDIYA_PLANI.exe
+C:\Users\canka\Desktop\V16_VARDIYA_PLANI\VARDIYA_PLANI\obj\Debug\VARDIYA_PLANI.pdb
+C:\Users\canka\Desktop\V16_VARDIYA_PLANI\VARDIYA_PLANI\obj\Debug\VARDIYA_PLANI.FORMLAR.frmGunlukMesaiExcel.resources
+C:\Users\srcelebi\Desktop\V17_VARDIYA_PLANI\VARDIYA_PLANI\bin\Debug\VARDIYA_PLANI.exe.config
+C:\Users\srcelebi\Desktop\V17_VARDIYA_PLANI\VARDIYA_PLANI\bin\Debug\VARDIYA_PLANI.exe
+C:\Users\srcelebi\Desktop\V17_VARDIYA_PLANI\VARDIYA_PLANI\bin\Debug\VARDIYA_PLANI.pdb
+C:\Users\srcelebi\Desktop\V17_VARDIYA_PLANI\VARDIYA_PLANI\obj\Debug\VARDIYA_PLANI.csprojAssemblyReference.cache
+C:\Users\srcelebi\Desktop\V17_VARDIYA_PLANI\VARDIYA_PLANI\obj\Debug\VARDIYA_PLANI.csproj.ResolveComReference.cache
+C:\Users\srcelebi\Desktop\V17_VARDIYA_PLANI\VARDIYA_PLANI\obj\Debug\VARDIYA_PLANI.FORMLAR.frmGiris.resources
+C:\Users\srcelebi\Desktop\V17_VARDIYA_PLANI\VARDIYA_PLANI\obj\Debug\VARDIYA_PLANI.FORMLAR.frmGunlukMesaiExcel.resources
+C:\Users\srcelebi\Desktop\V17_VARDIYA_PLANI\VARDIYA_PLANI\obj\Debug\VARDIYA_PLANI.FORMLAR.frmKullaniciSecim.resources
+C:\Users\srcelebi\Desktop\V17_VARDIYA_PLANI\VARDIYA_PLANI\obj\Debug\VARDIYA_PLANI.FORMLAR.frmMesaiPlanlamaEkrani.resources
+C:\Users\srcelebi\Desktop\V17_VARDIYA_PLANI\VARDIYA_PLANI\obj\Debug\VARDIYA_PLANI.frmVardiyaPlanlamaEkrani.resources
+C:\Users\srcelebi\Desktop\V17_VARDIYA_PLANI\VARDIYA_PLANI\obj\Debug\VARDIYA_PLANI.frmAdminSecim.resources
+C:\Users\srcelebi\Desktop\V17_VARDIYA_PLANI\VARDIYA_PLANI\obj\Debug\VARDIYA_PLANI.Properties.Resources.resources
+C:\Users\srcelebi\Desktop\V17_VARDIYA_PLANI\VARDIYA_PLANI\obj\Debug\VARDIYA_PLANI.csproj.GenerateResource.cache
+C:\Users\srcelebi\Desktop\V17_VARDIYA_PLANI\VARDIYA_PLANI\obj\Debug\VARDIYA_PLANI.csproj.CoreCompileInputs.cache
+C:\Users\srcelebi\Desktop\V17_VARDIYA_PLANI\VARDIYA_PLANI\obj\Debug\VARDIYA_PLANI.csproj.CopyComplete
+C:\Users\srcelebi\Desktop\V17_VARDIYA_PLANI\VARDIYA_PLANI\obj\Debug\VARDIYA_PLANI.exe
+C:\Users\srcelebi\Desktop\V17_VARDIYA_PLANI\VARDIYA_PLANI\obj\Debug\VARDIYA_PLANI.pdb
+C:\Users\srcelebi\Desktop\V17_VARDIYA_PLANI\VARDIYA_PLANI\obj\Debug\VARDIYA_PLANI.FORMLAR.frmAnaVardiyaExcel.resources
+C:\Users\srcelebi\Desktop\V18_VARDIYA_PLANI\VARDIYA_PLANI\obj\Debug\VARDIYA_PLANI.csprojAssemblyReference.cache
+C:\Users\srcelebi\Desktop\V18_VARDIYA_PLANI\VARDIYA_PLANI\obj\Debug\VARDIYA_PLANI.csproj.ResolveComReference.cache
+C:\Users\srcelebi\Desktop\V18_VARDIYA_PLANI\VARDIYA_PLANI\obj\Debug\VARDIYA_PLANI.FORMLAR.frmAnaVardiyaExcel.resources
+C:\Users\srcelebi\Desktop\V18_VARDIYA_PLANI\VARDIYA_PLANI\obj\Debug\VARDIYA_PLANI.FORMLAR.frmGiris.resources
+C:\Users\srcelebi\Desktop\V18_VARDIYA_PLANI\VARDIYA_PLANI\obj\Debug\VARDIYA_PLANI.FORMLAR.frmGunlukMesaiExcel.resources
+C:\Users\srcelebi\Desktop\V18_VARDIYA_PLANI\VARDIYA_PLANI\obj\Debug\VARDIYA_PLANI.FORMLAR.frmKullaniciSecim.resources
+C:\Users\srcelebi\Desktop\V18_VARDIYA_PLANI\VARDIYA_PLANI\obj\Debug\VARDIYA_PLANI.FORMLAR.frmMesaiPlanlamaEkrani.resources
+C:\Users\srcelebi\Desktop\V18_VARDIYA_PLANI\VARDIYA_PLANI\obj\Debug\VARDIYA_PLANI.frmVardiyaPlanlamaEkrani.resources
+C:\Users\srcelebi\Desktop\V18_VARDIYA_PLANI\VARDIYA_PLANI\obj\Debug\VARDIYA_PLANI.frmAdminSecim.resources
+C:\Users\srcelebi\Desktop\V18_VARDIYA_PLANI\VARDIYA_PLANI\obj\Debug\VARDIYA_PLANI.Properties.Resources.resources
+C:\Users\srcelebi\Desktop\V18_VARDIYA_PLANI\VARDIYA_PLANI\obj\Debug\VARDIYA_PLANI.csproj.GenerateResource.cache
+C:\Users\srcelebi\Desktop\V18_VARDIYA_PLANI\VARDIYA_PLANI\obj\Debug\VARDIYA_PLANI.csproj.CoreCompileInputs.cache
+C:\Users\srcelebi\Desktop\V18_VARDIYA_PLANI\VARDIYA_PLANI\obj\Debug\VARDIYA_PLANI.exe
+C:\Users\srcelebi\Desktop\V18_VARDIYA_PLANI\VARDIYA_PLANI\obj\Debug\VARDIYA_PLANI.pdb
+C:\Users\srcelebi\Desktop\V18_VARDIYA_PLANI\VARDIYA_PLANI\bin\Debug\VARDIYA_PLANI.exe.config
+C:\Users\srcelebi\Desktop\V18_VARDIYA_PLANI\VARDIYA_PLANI\bin\Debug\VARDIYA_PLANI.exe
+C:\Users\srcelebi\Desktop\V18_VARDIYA_PLANI\VARDIYA_PLANI\bin\Debug\VARDIYA_PLANI.pdb
+C:\Users\srcelebi\Desktop\V18_VARDIYA_PLANI\VARDIYA_PLANI\obj\Debug\VARDIYA_PLANI.csproj.CopyComplete
+C:\Users\canka\Desktop\V19_VARDIYA_PLANI\VARDIYA_PLANI\bin\Debug\VARDIYA_PLANI.exe.config
+C:\Users\canka\Desktop\V19_VARDIYA_PLANI\VARDIYA_PLANI\bin\Debug\VARDIYA_PLANI.exe
+C:\Users\canka\Desktop\V19_VARDIYA_PLANI\VARDIYA_PLANI\bin\Debug\VARDIYA_PLANI.pdb
+C:\Users\canka\Desktop\V19_VARDIYA_PLANI\VARDIYA_PLANI\bin\Debug\VardiyaDLL.dll
+C:\Users\canka\Desktop\V19_VARDIYA_PLANI\VARDIYA_PLANI\obj\Debug\VARDIYA_PLANI.csprojAssemblyReference.cache
+C:\Users\canka\Desktop\V19_VARDIYA_PLANI\VARDIYA_PLANI\obj\Debug\VARDIYA_PLANI.csproj.ResolveComReference.cache
+C:\Users\canka\Desktop\V19_VARDIYA_PLANI\VARDIYA_PLANI\obj\Debug\VARDIYA_PLANI.FORMLAR.frmAnaVardiyaExcel.resources
+C:\Users\canka\Desktop\V19_VARDIYA_PLANI\VARDIYA_PLANI\obj\Debug\VARDIYA_PLANI.FORMLAR.frmGiris.resources
+C:\Users\canka\Desktop\V19_VARDIYA_PLANI\VARDIYA_PLANI\obj\Debug\VARDIYA_PLANI.FORMLAR.frmGunlukMesaiExcel.resources
+C:\Users\canka\Desktop\V19_VARDIYA_PLANI\VARDIYA_PLANI\obj\Debug\VARDIYA_PLANI.FORMLAR.frmKullaniciSecim.resources
+C:\Users\canka\Desktop\V19_VARDIYA_PLANI\VARDIYA_PLANI\obj\Debug\VARDIYA_PLANI.FORMLAR.frmMesaiPlanlamaEkrani.resources
+C:\Users\canka\Desktop\V19_VARDIYA_PLANI\VARDIYA_PLANI\obj\Debug\VARDIYA_PLANI.frmVardiyaPlanlamaEkrani.resources
+C:\Users\canka\Desktop\V19_VARDIYA_PLANI\VARDIYA_PLANI\obj\Debug\VARDIYA_PLANI.frmAdminSecim.resources
+C:\Users\canka\Desktop\V19_VARDIYA_PLANI\VARDIYA_PLANI\obj\Debug\VARDIYA_PLANI.Properties.Resources.resources
+C:\Users\canka\Desktop\V19_VARDIYA_PLANI\VARDIYA_PLANI\obj\Debug\VARDIYA_PLANI.csproj.GenerateResource.cache
+C:\Users\canka\Desktop\V19_VARDIYA_PLANI\VARDIYA_PLANI\obj\Debug\VARDIYA_PLANI.csproj.CoreCompileInputs.cache
+C:\Users\canka\Desktop\V19_VARDIYA_PLANI\VARDIYA_PLANI\obj\Debug\VARDIYA_PLANI.csproj.CopyComplete
+C:\Users\canka\Desktop\V19_VARDIYA_PLANI\VARDIYA_PLANI\obj\Debug\VARDIYA_PLANI.exe
+C:\Users\canka\Desktop\V19_VARDIYA_PLANI\VARDIYA_PLANI\obj\Debug\VARDIYA_PLANI.pdb
+C:\Users\canka\Desktop\STAJ DOSYALARIM\V19_VARDIYA_PLANI\VARDIYA_PLANI\obj\Debug\VARDIYA_PLANI.csprojAssemblyReference.cache
+C:\Users\canka\Desktop\STAJ DOSYALARIM\V19_VARDIYA_PLANI\VARDIYA_PLANI\obj\Debug\VARDIYA_PLANI.csproj.ResolveComReference.cache
+C:\Users\canka\Desktop\STAJ DOSYALARIM\V19_VARDIYA_PLANI\VARDIYA_PLANI\obj\Debug\VARDIYA_PLANI.FORMLAR.frmAnaVardiyaExcel.resources
+C:\Users\canka\Desktop\STAJ DOSYALARIM\V19_VARDIYA_PLANI\VARDIYA_PLANI\obj\Debug\VARDIYA_PLANI.FORMLAR.frmGiris.resources
+C:\Users\canka\Desktop\STAJ DOSYALARIM\V19_VARDIYA_PLANI\VARDIYA_PLANI\obj\Debug\VARDIYA_PLANI.FORMLAR.frmGunlukMesaiExcel.resources
+C:\Users\canka\Desktop\STAJ DOSYALARIM\V19_VARDIYA_PLANI\VARDIYA_PLANI\obj\Debug\VARDIYA_PLANI.FORMLAR.frmKullaniciSecim.resources
+C:\Users\canka\Desktop\STAJ DOSYALARIM\V19_VARDIYA_PLANI\VARDIYA_PLANI\obj\Debug\VARDIYA_PLANI.FORMLAR.frmMesaiPlanlamaEkrani.resources
+C:\Users\canka\Desktop\STAJ DOSYALARIM\V19_VARDIYA_PLANI\VARDIYA_PLANI\obj\Debug\VARDIYA_PLANI.frmVardiyaPlanlamaEkrani.resources
+C:\Users\canka\Desktop\STAJ DOSYALARIM\V19_VARDIYA_PLANI\VARDIYA_PLANI\obj\Debug\VARDIYA_PLANI.frmAdminSecim.resources
+C:\Users\canka\Desktop\STAJ DOSYALARIM\V19_VARDIYA_PLANI\VARDIYA_PLANI\obj\Debug\VARDIYA_PLANI.Properties.Resources.resources
+C:\Users\canka\Desktop\STAJ DOSYALARIM\V19_VARDIYA_PLANI\VARDIYA_PLANI\obj\Debug\VARDIYA_PLANI.csproj.GenerateResource.cache
+C:\Users\canka\Desktop\STAJ DOSYALARIM\V19_VARDIYA_PLANI\VARDIYA_PLANI\obj\Debug\VARDIYA_PLANI.csproj.CoreCompileInputs.cache
+C:\Users\canka\Desktop\STAJ DOSYALARIM\V19_VARDIYA_PLANI\VARDIYA_PLANI\obj\Debug\VARDIYA_PLANI.exe
+C:\Users\canka\Desktop\STAJ DOSYALARIM\V19_VARDIYA_PLANI\VARDIYA_PLANI\obj\Debug\VARDIYA_PLANI.pdb
+C:\Users\canka\Desktop\STAJ DOSYALARIM\V19_VARDIYA_PLANI\VARDIYA_PLANI\bin\Debug\VARDIYA_PLANI.exe.config
+C:\Users\canka\Desktop\STAJ DOSYALARIM\V19_VARDIYA_PLANI\VARDIYA_PLANI\bin\Debug\VARDIYA_PLANI.exe
+C:\Users\canka\Desktop\STAJ DOSYALARIM\V19_VARDIYA_PLANI\VARDIYA_PLANI\bin\Debug\VARDIYA_PLANI.pdb
+C:\Users\canka\Desktop\STAJ DOSYALARIM\V19_VARDIYA_PLANI\VARDIYA_PLANI\bin\Debug\VardiyaDLL.dll
+C:\Users\canka\Desktop\STAJ DOSYALARIM\V19_VARDIYA_PLANI\VARDIYA_PLANI\obj\Debug\VARDIYA_PLANI.csproj.CopyComplete
